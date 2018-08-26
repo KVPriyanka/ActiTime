@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is Matching]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matching]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matching]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matching]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="236216" started-at="2018-08-21T14:19:05Z" finished-at="2018-08-21T14:23:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="236216" started-at="2018-08-21T14:19:05Z" finished-at="2018-08-21T14:23:01Z">
+      <class name="testScript.LinkedInTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testScript.LinkedInTest@5e3a8624]" name="launch" is-config="true" duration-ms="30670" started-at="2018-08-21T14:22:14Z" finished-at="2018-08-21T14:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="SearchPage()[pri:0, instance:testScript.LinkedInTest@5e3a8624]" name="SearchPage" duration-ms="15166" started-at="2018-08-21T14:22:45Z" finished-at="2018-08-21T14:23:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScript.LinkedInTest@5e3a8624]" name="closeBrowser" is-config="true" duration-ms="1151" started-at="2018-08-21T14:23:00Z" finished-at="2018-08-21T14:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testScript.LinkedInTest -->
+      <class name="testScript.FacebookTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testScript.FacebookTest@42d80b78]" name="launch" is-config="true" duration-ms="42191" started-at="2018-08-21T14:19:05Z" finished-at="2018-08-21T14:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="SearchPage()[pri:0, instance:testScript.FacebookTest@42d80b78]" name="SearchPage" duration-ms="20526" started-at="2018-08-21T14:19:47Z" finished-at="2018-08-21T14:20:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScript.FacebookTest@42d80b78]" name="closeBrowser" is-config="true" duration-ms="1257" started-at="2018-08-21T14:20:07Z" finished-at="2018-08-21T14:20:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testScript.FacebookTest -->
+      <class name="testScript.TwitterTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testScript.TwitterTest@1bce4f0a]" name="launch" is-config="true" duration-ms="31169" started-at="2018-08-21T14:21:18Z" finished-at="2018-08-21T14:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="SearchPage()[pri:0, instance:testScript.TwitterTest@1bce4f0a]" name="SearchPage" duration-ms="23272" started-at="2018-08-21T14:21:49Z" finished-at="2018-08-21T14:22:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScript.TwitterTest@1bce4f0a]" name="closeBrowser" is-config="true" duration-ms="1293" started-at="2018-08-21T14:22:13Z" finished-at="2018-08-21T14:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testScript.TwitterTest -->
+      <class name="testScript.InstagramTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testScript.InstagramTest@3bfdc050]" name="launch" is-config="true" duration-ms="39757" started-at="2018-08-21T14:20:09Z" finished-at="2018-08-21T14:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="SearchPage()[pri:0, instance:testScript.InstagramTest@3bfdc050]" name="SearchPage" duration-ms="28525" started-at="2018-08-21T14:20:48Z" finished-at="2018-08-21T14:21:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is Matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchPage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScript.InstagramTest@3bfdc050]" name="closeBrowser" is-config="true" duration-ms="1139" started-at="2018-08-21T14:21:17Z" finished-at="2018-08-21T14:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testScript.InstagramTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
